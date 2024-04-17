@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class VolumeController : MonoBehaviour
 {  
-    void OnVolumeChanged()
+    public void OnVolumeChanged()
     {
-
+        Debug.Log("Volume Changed");
     }
 }
