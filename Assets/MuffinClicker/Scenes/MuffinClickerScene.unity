@@ -353,6 +353,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9272d223b9907ad4285ac582c95c29da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _totalMuffinsText: {fileID: 1710630146}
+  _muffinsPerClick: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
